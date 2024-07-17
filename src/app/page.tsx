@@ -38,11 +38,11 @@ export default function Home() {
           </Button>
         </Flex>
       </div>
-      <div className="container mx-auto bg-cyan-100 rounded-xl p-2 mt-4 mb-4">
+      <div className="container mx-auto bg-cyan-100 rounded-xl p-2 m-4">
         <p className="p-4 text-2xl text-center">Oração de Purificação</p>
       </div>
       <div
-        className="container mx-auto"
+        className="container mx-auto p-4 text-justify"
         style={{ fontSize: `${tamanhoFonte}px` }}
       >
         <p>
