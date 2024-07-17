@@ -6,10 +6,10 @@ import { useRouter } from "next/navigation";
 
 export default function OracaoHumildadePage() {
   const router = useRouter();
-  const [tamanhoFonte, setTamanhoFonte] = useState(20);
+  const [tamanhoFonte, setTamanhoFonte] = useState(16);
 
   const handleFontSize = (fontSize: number) => {
-    if (tamanhoFonte + fontSize > 18 && tamanhoFonte + fontSize < 40) {
+    if (tamanhoFonte + fontSize > 14 && tamanhoFonte + fontSize < 40) {
       setTamanhoFonte((prevSize) => prevSize + fontSize);
     }
   };
