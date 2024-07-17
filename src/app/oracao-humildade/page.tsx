@@ -42,125 +42,133 @@ export default function OracaoHumildadePage() {
         <p className="p-4 text-2xl text-center">Oração da Humildade</p>
       </div>
       <div
-        className="container mx-auto pl-4 pr-4 pb-4 text-justify"
+        className="container mx-auto pl-4 pr-4 pb-4 text-justify bg-black rounded-xl"
         style={{ fontSize: `${tamanhoFonte}px` }}
       >
-        <p className="mt-6">P: Ó Jesus, manso e humilde de coração.</p>
-        <p>
+        <p className="mt-6 text-white">
+          P: Ó Jesus, manso e humilde de coração.
+        </p>
+        <p className="text-white">
           Todos: <b>Ouvi-me!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser estimado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser estimado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser amado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser amado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser conhecido.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser conhecido.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser honrado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser honrado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser louvado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser louvado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser preferido.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser preferido.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser consultado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser consultado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser aprovado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser aprovado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser humilhado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser humilhado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do desejo de ser desprezado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do desejo de ser desprezado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do receio de sofrer repulsas.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do receio de sofrer repulsas.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do receio de ser caluniado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do receio de ser caluniado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do receio de ser esquecido.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do receio de ser esquecido.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do receio de ser ridicularizado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do receio de ser ridicularizado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do receio de ser difamado.</p>
-        <p>
+        <p className="mt-6 text-white">P: Do receio de ser difamado.</p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Do receio de ser objeto de suspeita.</p>
-        <p>
+        <p className="mt-6 text-white">
+          P: Do receio de ser objeto de suspeita.
+        </p>
+        <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6">P: Que os outros sejam amados mais do que eu.</p>
-        <p>
+        <p className="mt-6 text-white">
+          P: Que os outros sejam amados mais do que eu.
+        </p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6">P: Que os outros sejam estimados mais do que eu.</p>
-        <p>
+        <p className="mt-6 text-white">
+          P: Que os outros sejam estimados mais do que eu.
+        </p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6">
+        <p className="mt-6 text-white">
           P: Que os outros possam elevar-se na opinião do mundo, e que eu possa
           ser diminuído.
         </p>
-        <p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6">
+        <p className="mt-6 text-white">
           P: Que os outros possam ser escolhidos e eu posto de lado.
         </p>
-        <p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6">
+        <p className="mt-6 text-white">
           P: Que os outros possam ser louvados e eu desprezado.
         </p>
-        <p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6">
+        <p className="mt-6 text-white">
           P: Que os outros possam ser preferidos a mim em todas as coisas.
         </p>
-        <p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6">
+        <p className="mt-6 text-white">
           P: Que os outros possam ser mais santos do que eu, embora me torne o
           mais santo quanto me for possível.
         </p>
-        <p>
+        <p className="text-white">
           Todos: <b>Jesus, dai-me a graça de desejá-lo!</b>
         </p>
-        <p className="mt-6 text-center">
+        <p className="mt-6 text-center text-white">
           P: Permaneçamos selados com um Deus que é Pai, Filho e Espiríto Santo.
         </p>
-        <p className="mt-6 text-center">
+        <p className="text-center text-white">
           Todos: <b>Amém!</b>
         </p>
         <hr className="mt-4" />
-        <p className="mt-4 mb-9 text-center">
+        <p className="mt-4 mb-6 text-center">
           <Button onClick={handleNextPage} color="blue">
             Voltar Para Oração Anterior
           </Button>
