@@ -7,8 +7,9 @@ import { Theme } from "@radix-ui/themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Orações Pastoral de Rua",
-  description: ">> Orações Pastoral de Rua <<",
+  title: "Orações Pastoral de Rua | Sagrada Família | Goiânia-GO | Brasil",
+  description:
+    "Orações Pastoral de Rua | Sagrada Família | Goiânia-GO | Brasil",
 };
 
 export default function RootLayout({
