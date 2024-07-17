@@ -74,9 +74,9 @@ export default function Home() {
         <p className="mt-6">
           <i>
             <b>
-              "A Cruz Sagrada seja minha luz! Não seja o dragão o meu guia!
+              A Cruz Sagrada seja minha luz! Não seja o dragão o meu guia!
               Retira-te satanás, nunca me aconselhes coisas vãs, é mau o que tu
-              ofereces. Bebe tu mesmo o teu próprio veneno!"
+              ofereces. Bebe tu mesmo o teu próprio veneno!
             </b>
           </i>
         </p>
