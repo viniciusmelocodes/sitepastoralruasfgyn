@@ -38,11 +38,11 @@ export default function OracaoHumildadePage() {
           </Button>
         </Flex>
       </div>
-      <div className="container mx-auto bg-cyan-100 rounded-xl p-2 m-4">
+      <div className="container mx-auto bg-cyan-100 rounded-xl m-4">
         <p className="p-4 text-2xl text-center">Oração da Humildade</p>
       </div>
       <div
-        className="container mx-auto p-4 text-justify"
+        className="container mx-auto pl-4 pr-4 pb-4 text-justify"
         style={{ fontSize: `${tamanhoFonte}px` }}
       >
         <p className="mt-6">P: Ó Jesus, manso e humilde de coração.</p>
