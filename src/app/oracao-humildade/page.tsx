@@ -27,14 +27,14 @@ export default function OracaoHumildadePage() {
               handleFontSize(-2);
             }}
           >
-            Diminuir tamanho do texto
+            Diminuir texto
           </Button>
           <Button
             onClick={(fontSize) => {
               handleFontSize(2);
             }}
           >
-            Aumentar tamanho do texto
+            Aumentar texto
           </Button>
         </Flex>
       </div>
