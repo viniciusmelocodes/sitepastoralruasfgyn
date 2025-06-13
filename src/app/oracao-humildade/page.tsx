@@ -83,11 +83,11 @@ export default function OracaoHumildadePage() {
         <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6 text-white">P: Do desejo de ser humilhado.</p>
+        <p className="mt-6 text-white">P: Do receio de ser humilhado.</p>
         <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
-        <p className="mt-6 text-white">P: Do desejo de ser desprezado.</p>
+        <p className="mt-6 text-white">P: Do receio de ser desprezado.</p>
         <p className="text-white">
           Todos: <b>Livrai-me, ó Jesus!</b>
         </p>
