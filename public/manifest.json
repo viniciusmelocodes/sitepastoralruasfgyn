@@ -1,0 +1,25 @@
+{
+  "name": "Orações Pastoral de Rua | Sagrada Família",
+  "short_name": "Pastoral de Rua",
+  "description": "Orações Pastoral de Rua | Sagrada Família | Goiânia-GO | Brasil",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
